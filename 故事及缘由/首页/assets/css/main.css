@@ -110,13 +110,13 @@ p{
 
 /*Home Style*/
 .logo{
-	padding-top: 300px;
+	padding-top: 100px;
 	text-transform: uppercase;
 	font-size: 12px;
 }
 #index_left{
 position: absolute;
-	top:220px;
+	top:120px;
 	left:870px;
 }
 .logo h4{

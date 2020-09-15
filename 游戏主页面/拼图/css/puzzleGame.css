@@ -16,7 +16,7 @@ left: 40%;}
 #wrap #left ul li span{display:block;width:80px;height:40px;line-height:40px;text-align:center;cursor:pointer;margin:5px 20px 0 0;background:#073F57;border-right:solid 1px #aaa;border-bottom:solid 1px #aaa;position:absolute;top:0;left:100px;}
 #wrap #left ul li span.mouseOn{border-right:none;border-bottom:none;border-top:solid 1px #aaa;border-left:solid 1px #aaa;}
 /* 游戏规则样式 */
-#wrap #left ul li#gameRule p{height:30px;font-size:18px;color:white;}
+#wrap #left ul li#gameRule p{height:30px;width:200px;font-size:18px;color:white;}
 
 /* 右侧图片 */
 #wrap #right{float:left;width:310px;height:300px;padding:10px 0 0 10px;}

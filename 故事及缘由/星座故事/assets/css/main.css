@@ -17,6 +17,7 @@
 		font-size: 100%;
 		font: inherit;
 		vertical-align: baseline;
+		
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -1613,7 +1614,8 @@
 /* Type */
 
 	body {
-		background-color: #1b1b1b;
+		background:url("../../images/banner.JPG");
+		background-repeat: round;
 		color: rgba(255, 255, 255, 0.75);
 	}
 
@@ -1812,7 +1814,7 @@
 /* Box */
 
 	.box {
-		background: rgba(0, 0, 0, 0.5);
+		background: rgba(144, 144, 144, 0.25);
 		border-radius: 4px;
 		margin-bottom: 2em;
 		overflow: hidden;
@@ -3396,6 +3398,7 @@
 					content: "";
 					-moz-osx-font-smoothing: grayscale;
 					-webkit-font-smoothing: antialiased;
+
 					font-family: FontAwesome;
 					font-style: normal;
 					font-weight: normal;

@@ -9,7 +9,7 @@ left: 40%;}
 #wrap{width:530px;height:320px;margin:50px auto;}
 
 /* 左侧选项栏 */
-#wrap #left{float:left;width:200px;height:300px;padding-top:20px;font-size:20px;color: white;}
+#wrap #left{float:left;width:290px;height:300px;padding-top:20px;font-size:20px;color: white;}
 #wrap #left ul{width:200px;height:300px;}
 /* 开始游戏与难度选择的统一样式 */
 #wrap #left ul li{width:290px;height:50px;line-height:50px;padding-left:10px;position:relative;}
